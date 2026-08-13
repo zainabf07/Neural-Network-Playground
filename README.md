@@ -9,8 +9,7 @@ An interactive tool to train a small neural network in your browser, using real 
 
 ## 🎥 Demo
 
-<!-- Record a short screen capture and drag it into a GitHub issue/PR/discussion (even a draft) — GitHub hosts it and gives you a link like the one below. Paste that link here. -->
-https://github.com/user-attachments/assets/YOUR-VIDEO-ID-HERE
+https://github.com/user-attachments/assets/16f2b860-01df-4633-aa07-eae465dd0306
 
 ## ✨ Features
 
