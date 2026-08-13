@@ -1,6 +1,6 @@
 # 🧠 Neural Network Playground
 
-An interactive tool to train a small neural network in your browser, using real backpropagation. Inspired by [playground.tensorflow.org](https://playground.tensorflow.org).
+An interactive tool to visualizer a small neural network in your browser, using real backpropagation. Inspired by [playground.tensorflow.org](https://playground.tensorflow.org).
 
 ![Vanilla JS](https://img.shields.io/badge/vanilla-JS-f7df1e?logo=javascript&logoColor=black)
 ![No dependencies](https://img.shields.io/badge/dependencies-none-2f6fed)
